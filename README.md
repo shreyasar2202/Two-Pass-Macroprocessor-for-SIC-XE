@@ -6,7 +6,7 @@ Commonly used programming languages support the use macros. A macro is a single 
 The basic functions of a macro processor as follows:
 1) Identifying and processing macro definition.
 2) Identifying macro invocation statements and expanding it into statements that form the body of the macro.
-3)Providing arguments to the macro prototype from the macro invocation statement.
+3) Providing arguments to the macro prototype from the macro invocation statement.
 
 Macro processor can be designed having two passes:
 Pass I : Processing of macro definition
